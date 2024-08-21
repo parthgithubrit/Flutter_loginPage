@@ -11,7 +11,7 @@ class Header extends StatelessWidget{
           Center(
             child: Text("Login", style: TextStyle(color: Colors.white, fontSize: 40),),
           ),
-          SizedBox(height: 10,),
+          SizedBox(height: 20,),
           Center(
             child: Text("Welcome to Stuti", style: TextStyle(color: Colors.white, fontSize: 18),),
           )
